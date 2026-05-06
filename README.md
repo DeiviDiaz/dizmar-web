@@ -4,7 +4,7 @@ Sitio web desarrollado para un negocio familiar dedicado a la venta de basecamas
 
 ## 🌐 Demo
 
-[Ver sitio web](https://tuusuario.github.io/dizmar-web)
+[Ver sitio web](https://deividiaz.github.io/dizmar-web/)
 
 ## 📌 Descripción
 
